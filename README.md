@@ -1,6 +1,6 @@
 # bamazon
 
-####Challenge #1: Customer View (bamazonCustomer.js)
+##Challenge #1: Customer View (bamazonCustomer.js)
 
 The app will prompt users with two messages.
 * The first should ask them the ID of the product they would like to buy.
@@ -9,7 +9,7 @@ Once the customer has placed the order, the application should check if store ha
 * Once the update goes through, show the customer the total cost of their purchase
 * If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
 
-####Challenge #2: Manager View (bamazonManager.js)
+##Challenge #2: Manager View (bamazonManager.js)
 
 This node app will show a set of menu options:
 * View Products for Sale
@@ -17,7 +17,7 @@ This node app will show a set of menu options:
 * Add to Inventory
 * Add New Product
 
-####Challenge #3: Supervisor View (bamazonSupervisor.js)
+##Challenge #3: Supervisor View (bamazonSupervisor.js)
 This node app will show a set of menu options:
 * View Product Sales by Department
 * Create New Department
