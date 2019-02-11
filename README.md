@@ -1,6 +1,6 @@
 # bamazon
 
-####'Challenge #1: Customer View (bamazonCustomer.js)'
+####Challenge #1: Customer View (bamazonCustomer.js)
 
 The app will prompt users with two messages.
 * The first should ask them the ID of the product they would like to buy.
