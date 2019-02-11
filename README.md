@@ -17,7 +17,7 @@ This node app will show a set of menu options:
 * Add to Inventory
 * Add New Product
 
-####Challenge #3: Supervisor View (bamazonCustomer.js)
+####Challenge #3: Supervisor View (bamazonSupervisor.js)
 This node app will show a set of menu options:
 * View Product Sales by Department
 * Create New Department
